@@ -1,6 +1,6 @@
 React Project with SCSS, HTML, and TypeScript Project Description This project is a modern web application built using React, TypeScript, SCSS, and HTML. It showcases a clean and responsive design, leveraging the power of React for component-based architecture, TypeScript for static typing, SCSS for advanced styling, and HTML for structure. The application is designed to be highly performant, maintainable, and scalable.
 
-Check out the live demo: DEMO LINK
+Check out the live demo: [DEMO LINK](https://jdifek.github.io/react_ts-todo/)
 
 Technologies Used React: A JavaScript library for building user interfaces. TypeScript: A strongly typed programming language that builds on JavaScript. SCSS: Sassy CSS, a preprocessor scripting language that is interpreted or compiled into Cascading Style Sheets (CSS). HTML: The standard markup language for creating web pages. Features Responsive Design: Ensures that the application looks great on all devices. Component-Based Architecture: Utilizes React components for modular development. Type Safety: TypeScript provides static type checking to avoid runtime errors. Advanced Styling: SCSS allows for more flexible and organized styling. Installation To run this project locally, follow these steps:
 
